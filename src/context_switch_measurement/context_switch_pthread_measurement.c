@@ -21,8 +21,6 @@ void *function(void *args)
 
 int main()
 {
-    const cpu_set_t cpuMask;
-    sched_setaffinity(0, sizeof(cpu_set_t), &cpuMask);
 
     int pid;
     uint64_t start, end, switch_time, rw_time;

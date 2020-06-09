@@ -67,5 +67,5 @@ void main()
 	std_deviation = sqrt(variance);
 	printf("\nFork Overhead(Mean) : %lf", mean);
 	printf("\nFork Overhead(Variance) : %lf", variance);
-	printf("\nFork Overhead(Standard Deviation) : %lf", std_deviation);
+	printf("\nFork Overhead(Standard Deviation) : %lf\n", std_deviation);
 }

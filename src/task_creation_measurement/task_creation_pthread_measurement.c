@@ -70,5 +70,5 @@ void main()
 	std_deviation = sqrt(variance);
 	printf("\nKernel Thread Overhead(Mean) : %lf", mean);
 	printf("\nKernel Thread Overhead(Variance) : %lf", variance);
-	printf("\nKernel Thread Overhead(Standard Deviation) : %lf", std_deviation);
+	printf("\nKernel Thread Overhead(Standard Deviation) : %lf\n", std_deviation);
 }

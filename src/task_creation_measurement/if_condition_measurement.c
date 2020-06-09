@@ -68,5 +68,5 @@ void main()
 	std_deviation = sqrt(variance);
 	printf("\nMeasurement Overhead(Mean) : %lf", mean);
 	printf("\nMeasurement Overhead(Variance) : %lf", variance);
-	printf("\nMeasurement Overhead(Standard Deviation) : %lf", std_deviation);
+	printf("\nMeasurement Overhead(Standard Deviation) : %lf\n", std_deviation);
 }

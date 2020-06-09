@@ -41,5 +41,5 @@ void main()
 				 : "=r"(hi2), "=r"(lo2)::"%rax", "%rbx", "%rcx", "%rdx");
 	begin = ((uint64_t)hi1 << 32) | lo1;
 	end = ((uint64_t)hi2 << 32) | lo2;
-	printf("\n%lu %lu %lu", begin, end, end - begin - PERFORMANCE_OVERHEAD);
+	printf("\nBegin : %lu\nEnd : %lu\nResult : %lu\n", begin, end, end - begin - PERFORMANCE_OVERHEAD);
 }
