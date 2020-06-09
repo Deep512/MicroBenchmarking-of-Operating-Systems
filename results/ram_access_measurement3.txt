@@ -2,494 +2,494 @@ Iteration 0
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ------------------------------------------------------------
 RAM Access Time 1024
-RAM Latency(Mean): 1.37
-RAM Latency(Variance): 0.030348
-RAM Latency Overhead(Standard Deviation): 0.174206773691
+RAM Latency(Mean): 2.9324
+RAM Latency(Variance): 40.29921744
+RAM Latency Overhead(Standard Deviation): 6.34816646285
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2048
-RAM Latency(Mean): 1.4418
-RAM Latency(Variance): 0.02436836
-RAM Latency Overhead(Standard Deviation): 0.156103683493
+RAM Latency(Mean): 1.8064
+RAM Latency(Variance): 8.99398684
+RAM Latency Overhead(Standard Deviation): 2.99899763921
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 16384
-RAM Latency(Mean): 1.505
-RAM Latency(Variance): 0.013361
-RAM Latency Overhead(Standard Deviation): 0.115589791937
+RAM Latency(Mean): 45.0471
+RAM Latency(Variance): 11867.7683677
+RAM Latency Overhead(Standard Deviation): 108.939287531
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 32768
-RAM Latency(Mean): 1.8447
-RAM Latency(Variance): 3.062541
-RAM Latency Overhead(Standard Deviation): 5.53402322211
+RAM Latency(Mean): 8.6124
+RAM Latency(Variance): 130.70033904
+RAM Latency Overhead(Standard Deviation): 11.4324248976
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 65536
-RAM Latency(Mean): 3.856
-RAM Latency(Variance): 25.497548
-RAM Latency Overhead(Standard Deviation): 5.04950967917
+RAM Latency(Mean): 13.9621
+RAM Latency(Variance): 313.14054749
+RAM Latency Overhead(Standard Deviation): 17.6957776741
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 131072
-RAM Latency(Mean): 3.6893
-RAM Latency(Variance): 5.444513
-RAM Latency Overhead(Standard Deviation): 7.37869762948
+RAM Latency(Mean): 12.5788
+RAM Latency(Variance): 119.14674816
+RAM Latency Overhead(Standard Deviation): 10.9154362332
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 262144
-RAM Latency(Mean): 9.7218
-RAM Latency(Variance): 3.59992196
-RAM Latency Overhead(Standard Deviation): 1.89734603064
+RAM Latency(Mean): 19.9193
+RAM Latency(Variance): 224.67085781
+RAM Latency Overhead(Standard Deviation): 14.9890245783
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 524288
-RAM Latency(Mean): 67.4366
-RAM Latency(Variance): 372.64284884
-RAM Latency Overhead(Standard Deviation): 19.3039594084
+RAM Latency(Mean): 31.0179
+RAM Latency(Variance): 559.29934749
+RAM Latency Overhead(Standard Deviation): 23.6495105127
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 1048576
-RAM Latency(Mean): 43.8746
-RAM Latency(Variance): 70.73323844
-RAM Latency Overhead(Standard Deviation): 8.41030549029
+RAM Latency(Mean): 33.1908
+RAM Latency(Variance): 144.75799596
+RAM Latency Overhead(Standard Deviation): 12.0315417117
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2097152
-RAM Latency(Mean): 66.2898
-RAM Latency(Variance): 84.52461156
-RAM Latency Overhead(Standard Deviation): 9.19372675034
+RAM Latency(Mean): 48.7038
+RAM Latency(Variance): 22.67541236
+RAM Latency Overhead(Standard Deviation): 4.76187067863
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 3145728
-RAM Latency(Mean): 75.0002
-RAM Latency(Variance): 68.30487316
-RAM Latency Overhead(Standard Deviation): 8.26467622838
+RAM Latency(Mean): 60.0191
+RAM Latency(Variance): 13.91556829
+RAM Latency Overhead(Standard Deviation): 3.73035766248
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 4194304
-RAM Latency(Mean): 75.2482
-RAM Latency(Variance): 5.60674436
-RAM Latency Overhead(Standard Deviation): 2.36785649058
+RAM Latency(Mean): 70.2313
+RAM Latency(Variance): 82.33833321
+RAM Latency Overhead(Standard Deviation): 9.07404723428
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 8388608
-RAM Latency(Mean): 80.9314
-RAM Latency(Variance): 17.02879604
-RAM Latency Overhead(Standard Deviation): 4.12659618087
+RAM Latency(Mean): 145.8624
+RAM Latency(Variance): 11056.3500806
+RAM Latency Overhead(Standard Deviation): 105.149180123
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 67108864
-RAM Latency(Mean): 94.9258
-RAM Latency(Variance): 1.37195796
-RAM Latency Overhead(Standard Deviation): 1.17130609151
+RAM Latency(Mean): 149.4338
+RAM Latency(Variance): 1060.35028076
+RAM Latency Overhead(Standard Deviation): 32.5630201419
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 134217728
-RAM Latency(Mean): 96.6606
-RAM Latency(Variance): 1.73873364
-RAM Latency Overhead(Standard Deviation): 1.31861049594
+RAM Latency(Mean): 152.7583
+RAM Latency(Variance): 1060.64023781
+RAM Latency Overhead(Standard Deviation): 32.567472082
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 268435456
-RAM Latency(Mean): 101.3244
-RAM Latency(Variance): 1.55109664
-RAM Latency Overhead(Standard Deviation): 1.24543030315
+RAM Latency(Mean): 146.5865
+RAM Latency(Variance): 246.73867345
+RAM Latency Overhead(Standard Deviation): 15.7079175402
 ------------------------------------------------------------
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Iteration 1
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ------------------------------------------------------------
 RAM Access Time 1024
-RAM Latency(Mean): 4.0958
-RAM Latency(Variance): 67.63575796
-RAM Latency Overhead(Standard Deviation): 8.22409617891
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2048
-RAM Latency(Mean): 1.4384
-RAM Latency(Variance): 0.02559264
-RAM Latency Overhead(Standard Deviation): 0.159976998347
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 16384
-RAM Latency(Mean): 1.47
-RAM Latency(Variance): 0.002668
-RAM Latency Overhead(Standard Deviation): 0.0516526862806
+RAM Latency(Mean): 1.1939
+RAM Latency(Variance): 0.02938829
+RAM Latency Overhead(Standard Deviation): 0.171430131541
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 32768
-RAM Latency(Mean): 2.0854
-RAM Latency(Variance): 1.01995604
-RAM Latency Overhead(Standard Deviation): 1.00992873016
+RAM Latency(Mean): 4.3303
+RAM Latency(Variance): 8.83038261
+RAM Latency Overhead(Standard Deviation): 2.97159597018
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 65536
-RAM Latency(Mean): 2.561
-RAM Latency(Variance): 2.172349
-RAM Latency Overhead(Standard Deviation): 1.47388907317
+RAM Latency(Mean): 7.226
+RAM Latency(Variance): 64.692753
+RAM Latency Overhead(Standard Deviation): 8.04318052763
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 131072
-RAM Latency(Mean): 3.9884
-RAM Latency(Variance): 0.72569344
-RAM Latency Overhead(Standard Deviation): 0.851876422963
+RAM Latency(Mean): 13.9017
+RAM Latency(Variance): 235.40187681
+RAM Latency Overhead(Standard Deviation): 15.3428118938
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 262144
-RAM Latency(Mean): 10.4534
-RAM Latency(Variance): 11.48264244
-RAM Latency Overhead(Standard Deviation): 3.38860479254
+RAM Latency(Mean): 22.6877
+RAM Latency(Variance): 645.38225481
+RAM Latency Overhead(Standard Deviation): 25.4043747179
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 524288
-RAM Latency(Mean): 62.0142
-RAM Latency(Variance): 279.39435556
-RAM Latency Overhead(Standard Deviation): 16.715093645
+RAM Latency(Mean): 35.7715
+RAM Latency(Variance): 931.46803585
+RAM Latency Overhead(Standard Deviation): 30.5199612688
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 1048576
-RAM Latency(Mean): 42.6052
-RAM Latency(Variance): 41.22461296
-RAM Latency Overhead(Standard Deviation): 6.42063960677
+RAM Latency(Mean): 31.9048
+RAM Latency(Variance): 99.35678336
+RAM Latency Overhead(Standard Deviation): 9.96778728505
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2097152
-RAM Latency(Mean): 66.472
-RAM Latency(Variance): 65.552376
-RAM Latency Overhead(Standard Deviation): 8.0964421816
+RAM Latency(Mean): 51.3094
+RAM Latency(Variance): 226.44975024
+RAM Latency Overhead(Standard Deviation): 15.0482474142
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 3145728
-RAM Latency(Mean): 67.8486
-RAM Latency(Variance): 23.36637924
-RAM Latency Overhead(Standard Deviation): 4.83387828146
+RAM Latency(Mean): 66.1807
+RAM Latency(Variance): 758.67489021
+RAM Latency Overhead(Standard Deviation): 27.5440536271
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 4194304
-RAM Latency(Mean): 74.3482
-RAM Latency(Variance): 4.66111476
-RAM Latency Overhead(Standard Deviation): 2.15896150035
+RAM Latency(Mean): 75.204
+RAM Latency(Variance): 289.2354368
+RAM Latency Overhead(Standard Deviation): 17.006923202
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 8388608
-RAM Latency(Mean): 80.515
-RAM Latency(Variance): 1.4617378
-RAM Latency Overhead(Standard Deviation): 1.20902349026
+RAM Latency(Mean): 104.0696
+RAM Latency(Variance): 447.38691384
+RAM Latency Overhead(Standard Deviation): 21.151522731
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 67108864
-RAM Latency(Mean): 96.7098
-RAM Latency(Variance): 28.92716356
-RAM Latency Overhead(Standard Deviation): 5.37839786182
+RAM Latency(Mean): 153.6751
+RAM Latency(Variance): 527.57097029
+RAM Latency Overhead(Standard Deviation): 22.9689131282
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 134217728
-RAM Latency(Mean): 96.7974
-RAM Latency(Variance): 1.31991524
-RAM Latency Overhead(Standard Deviation): 1.14887564166
+RAM Latency(Mean): 153.8638
+RAM Latency(Variance): 1658.70887856
+RAM Latency Overhead(Standard Deviation): 40.7272498281
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 268435456
-RAM Latency(Mean): 101.1342
-RAM Latency(Variance): 3.01908596
-RAM Latency Overhead(Standard Deviation): 1.73755171434
+RAM Latency(Mean): 593.266
+RAM Latency(Variance): 1545686.97443
+RAM Latency Overhead(Standard Deviation): 1243.2566004
 ------------------------------------------------------------
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Iteration 2
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ------------------------------------------------------------
 RAM Access Time 1024
-RAM Latency(Mean): 1.2492
-RAM Latency(Variance): 0.02788736
-RAM Latency Overhead(Standard Deviation): 0.166995089748
+RAM Latency(Mean): 1.8864
+RAM Latency(Variance): 6.81173384
+RAM Latency Overhead(Standard Deviation): 2.60992985346
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2048
-RAM Latency(Mean): 1.3464
-RAM Latency(Variance): 0.00582304
-RAM Latency Overhead(Standard Deviation): 0.0763088461451
+RAM Latency(Mean): 1.0026
+RAM Latency(Variance): 1.12128064
+RAM Latency Overhead(Standard Deviation): 1.0589053971
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 16384
-RAM Latency(Mean): 1.4096
-RAM Latency(Variance): 0.03602064
-RAM Latency Overhead(Standard Deviation): 0.189791042992
+RAM Latency(Mean): 1.9094
+RAM Latency(Variance): 0.16468844
+RAM Latency Overhead(Standard Deviation): 0.405818235174
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 32768
-RAM Latency(Mean): 1.6284
-RAM Latency(Variance): 0.08651264
-RAM Latency Overhead(Standard Deviation): 0.294130311257
+RAM Latency(Mean): 6.1462
+RAM Latency(Variance): 39.93898356
+RAM Latency Overhead(Standard Deviation): 6.31972970625
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 65536
-RAM Latency(Mean): 1.8578
-RAM Latency(Variance): 0.45996516
-RAM Latency Overhead(Standard Deviation): 0.678207313437
+RAM Latency(Mean): 19.9216
+RAM Latency(Variance): 710.45825404
+RAM Latency Overhead(Standard Deviation): 26.6544227857
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 131072
-RAM Latency(Mean): 8.4754
-RAM Latency(Variance): 155.32174884
-RAM Latency Overhead(Standard Deviation): 12.4628146436
+RAM Latency(Mean): 50.4858
+RAM Latency(Variance): 1984.82470416
+RAM Latency Overhead(Standard Deviation): 44.5513715183
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 262144
-RAM Latency(Mean): 10.1596
-RAM Latency(Variance): 3.78999344
-RAM Latency Overhead(Standard Deviation): 1.94679054857
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 524288
-RAM Latency(Mean): 63.7022
-RAM Latency(Variance): 82.02593316
-RAM Latency Overhead(Standard Deviation): 9.05681694416
+RAM Latency(Mean): 88.5858
+RAM Latency(Variance): 7072.10286276
+RAM Latency Overhead(Standard Deviation): 84.0957957496
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 1048576
-RAM Latency(Mean): 43.4896
-RAM Latency(Variance): 23.80155504
-RAM Latency Overhead(Standard Deviation): 4.87868374052
+RAM Latency(Mean): 64.2467
+RAM Latency(Variance): 150.91300941
+RAM Latency Overhead(Standard Deviation): 12.2846656206
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2097152
-RAM Latency(Mean): 62.4676
-RAM Latency(Variance): 9.77675744
-RAM Latency Overhead(Standard Deviation): 3.12678068307
+RAM Latency(Mean): 80.4846
+RAM Latency(Variance): 628.05513024
+RAM Latency Overhead(Standard Deviation): 25.0610281162
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 3145728
-RAM Latency(Mean): 71.1878
-RAM Latency(Variance): 76.79852676
-RAM Latency Overhead(Standard Deviation): 8.76347686481
+RAM Latency(Mean): 80.5367
+RAM Latency(Variance): 404.91408401
+RAM Latency Overhead(Standard Deviation): 20.1224770843
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 4194304
-RAM Latency(Mean): 74.1886
-RAM Latency(Variance): 1.25600804
-RAM Latency Overhead(Standard Deviation): 1.12071764508
+RAM Latency(Mean): 82.8794
+RAM Latency(Variance): 462.30847224
+RAM Latency Overhead(Standard Deviation): 21.5013597765
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 8388608
-RAM Latency(Mean): 80.2118
-RAM Latency(Variance): 13.91341396
-RAM Latency Overhead(Standard Deviation): 3.73006889481
+RAM Latency(Mean): 93.8682
+RAM Latency(Variance): 128.07585956
+RAM Latency Overhead(Standard Deviation): 11.317060553
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 67108864
-RAM Latency(Mean): 94.4628
-RAM Latency(Variance): 0.76919776
-RAM Latency Overhead(Standard Deviation): 0.877039200948
+RAM Latency(Mean): 140.0047
+RAM Latency(Variance): 166.38566221
+RAM Latency Overhead(Standard Deviation): 12.8990566403
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 134217728
-RAM Latency(Mean): 97.1968
-RAM Latency(Variance): 1.58287776
-RAM Latency Overhead(Standard Deviation): 1.2581246997
+RAM Latency(Mean): 149.4515
+RAM Latency(Variance): 350.42462785
+RAM Latency Overhead(Standard Deviation): 18.7196321505
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 268435456
-RAM Latency(Mean): 100.1388
-RAM Latency(Variance): 0.91518256
-RAM Latency Overhead(Standard Deviation): 0.956651744367
+RAM Latency(Mean): 149.1997
+RAM Latency(Variance): 388.92464661
+RAM Latency Overhead(Standard Deviation): 19.7211725465
 ------------------------------------------------------------
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Iteration 3
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ------------------------------------------------------------
 RAM Access Time 1024
-RAM Latency(Mean): 1.329
-RAM Latency(Variance): 0.0245754
-RAM Latency Overhead(Standard Deviation): 0.156765429863
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2048
-RAM Latency(Mean): 1.8447
-RAM Latency(Variance): 3.06254
-RAM Latency Overhead(Standard Deviation): 5.53402322211
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 16384
-RAM Latency(Mean): 1.3652
-RAM Latency(Variance): 0.04654896
-RAM Latency Overhead(Standard Deviation): 0.215752079944
+RAM Latency(Mean): 2.6878
+RAM Latency(Variance): 8.55007096
+RAM Latency Overhead(Standard Deviation): 2.92405043732
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 32768
-RAM Latency(Mean): 2.0834
-RAM Latency(Variance): 1.20557844
-RAM Latency Overhead(Standard Deviation): 1.09798836059
+RAM Latency(Mean): 4.2065
+RAM Latency(Variance): 24.42295925
+RAM Latency Overhead(Standard Deviation): 4.94195904981
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 65536
-RAM Latency(Mean): 2.5442
-RAM Latency(Variance): 0.67473076
-RAM Latency Overhead(Standard Deviation): 0.821419965669
+RAM Latency(Mean): 8.2121
+RAM Latency(Variance): 43.12111549
+RAM Latency Overhead(Standard Deviation): 6.56666700008
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 131072
-RAM Latency(Mean): 4.3504
-RAM Latency(Variance): 1.12305584
-RAM Latency Overhead(Standard Deviation): 1.05974328967
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 262144
-RAM Latency(Mean): 14.0352
-RAM Latency(Variance): 78.37048736
-RAM Latency Overhead(Standard Deviation): 8.85271073514
+RAM Latency(Mean): 15.1841
+RAM Latency(Variance): 97.47824769
+RAM Latency Overhead(Standard Deviation): 9.87310729659
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 524288
-RAM Latency(Mean): 67.1606
-RAM Latency(Variance): 134.48058644
-RAM Latency Overhead(Standard Deviation): 11.5965764965
+RAM Latency(Mean): 30.124
+RAM Latency(Variance): 322.8756084
+RAM Latency Overhead(Standard Deviation): 17.9687397555
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 1048576
-RAM Latency(Mean): 47.2536
-RAM Latency(Variance): 137.73550784
-RAM Latency Overhead(Standard Deviation): 11.7360771913
+RAM Latency(Mean): 29.5122
+RAM Latency(Variance): 65.36068476
+RAM Latency Overhead(Standard Deviation): 8.08459552235
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2097152
-RAM Latency(Mean): 64.3226
-RAM Latency(Variance): 4.30907044
-RAM Latency Overhead(Standard Deviation): 2.07583006048
+RAM Latency(Mean): 48.3391
+RAM Latency(Variance): 21.06077369
+RAM Latency Overhead(Standard Deviation): 4.58920185762
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 3145728
-RAM Latency(Mean): 71.4246
-RAM Latency(Variance): 0.49902884
-RAM Latency Overhead(Standard Deviation): 0.706419733586
+RAM Latency(Mean): 58.3903
+RAM Latency(Variance): 12.76850381
+RAM Latency Overhead(Standard Deviation): 3.57330432653
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 4194304
-RAM Latency(Mean): 74.6802
-RAM Latency(Variance): 3.00405076
-RAM Latency Overhead(Standard Deviation): 1.73321976679
+RAM Latency(Mean): 67.5094
+RAM Latency(Variance): 10.04832104
+RAM Latency Overhead(Standard Deviation): 3.16990868007
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 8388608
-RAM Latency(Mean): 80.2558
-RAM Latency(Variance): 0.41435876
-RAM Latency Overhead(Standard Deviation): 0.643707045169
+RAM Latency(Mean): 101.276
+RAM Latency(Variance): 758.0164402
+RAM Latency Overhead(Standard Deviation): 27.5320983617
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 67108864
-RAM Latency(Mean): 93.9218
-RAM Latency(Variance): 1.59204596
-RAM Latency Overhead(Standard Deviation): 1.26176303639
+RAM Latency(Mean): 147.8172
+RAM Latency(Variance): 997.76853436
+RAM Latency Overhead(Standard Deviation): 31.587474327
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 134217728
-RAM Latency(Mean): 97.0232
-RAM Latency(Variance): 2.83454096
-RAM Latency Overhead(Standard Deviation): 1.68360950342
+RAM Latency(Mean): 151.3905
+RAM Latency(Variance): 1274.71421605
+RAM Latency Overhead(Standard Deviation): 35.7031401427
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 268435456
-RAM Latency(Mean): 101.2816
-RAM Latency(Variance): 0.59856064
-RAM Latency Overhead(Standard Deviation): 0.773667008473
+RAM Latency(Mean): 157.274
+RAM Latency(Variance): 1047.4005224
+RAM Latency Overhead(Standard Deviation): 32.3635678256
 ------------------------------------------------------------
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Iteration 4
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 ------------------------------------------------------------
 RAM Access Time 1024
-RAM Latency(Mean): 1.2998
-RAM Latency(Variance): 0.03026516
-RAM Latency Overhead(Standard Deviation): 0.173968847786
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2048
-RAM Latency(Mean): 1.3154
-RAM Latency(Variance): 0.01815284
-RAM Latency Overhead(Standard Deviation): 0.134732475669
+RAM Latency(Mean): 3.68934881474e+15
+RAM Latency(Variance): 5.44451787074e+31
+RAM Latency Overhead(Standard Deviation): 7.37869762948e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 16384
-RAM Latency(Mean): 1.9474
-RAM Latency(Variance): 2.50640244
-RAM Latency Overhead(Standard Deviation): 1.58316216478
+RAM Latency(Mean): 4.1473
+RAM Latency(Variance): 31.92761141
+RAM Latency Overhead(Standard Deviation): 5.65045231906
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 32768
-RAM Latency(Mean): 4.2272
-RAM Latency(Variance): 40.00194656
-RAM Latency Overhead(Standard Deviation): 6.32470920754
+RAM Latency(Mean): 1.84467440737e+15
+RAM Latency(Variance): 3.06254130229e+31
+RAM Latency Overhead(Standard Deviation): 5.53402322211e+15
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 65536
-RAM Latency(Mean): 3.0372
-RAM Latency(Variance): 2.63676576
-RAM Latency Overhead(Standard Deviation): 1.62381210736
+RAM Latency(Mean): 10.0977
+RAM Latency(Variance): 110.06135781
+RAM Latency Overhead(Standard Deviation): 10.4910131927
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 131072
-RAM Latency(Mean): 4.442
-RAM Latency(Variance): 3.9993952
-RAM Latency Overhead(Standard Deviation): 1.99984879428
+RAM Latency(Mean): 20.1938
+RAM Latency(Variance): 539.46594616
+RAM Latency Overhead(Standard Deviation): 23.2264062257
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 262144
-RAM Latency(Mean): 13.5974
-RAM Latency(Variance): 73.17667764
-RAM Latency Overhead(Standard Deviation): 8.55433677382
+RAM Latency(Mean): 15.5819
+RAM Latency(Variance): 167.12174169
+RAM Latency Overhead(Standard Deviation): 12.9275574526
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 524288
-RAM Latency(Mean): 49.4348
-RAM Latency(Variance): 434.19154176
-RAM Latency Overhead(Standard Deviation): 20.8372632982
+RAM Latency(Mean): 17.459
+RAM Latency(Variance): 181.0664262
+RAM Latency Overhead(Standard Deviation): 13.4560925309
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 1048576
-RAM Latency(Mean): 44.896
-RAM Latency(Variance): 39.5749656
-RAM Latency Overhead(Standard Deviation): 6.2908636609
+RAM Latency(Mean): 35.0415
+RAM Latency(Variance): 345.88767725
+RAM Latency Overhead(Standard Deviation): 18.5980557384
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 2097152
-RAM Latency(Mean): 63.7182
-RAM Latency(Variance): 2.49788436
-RAM Latency Overhead(Standard Deviation): 1.58046966437
+RAM Latency(Mean): 51.7047
+RAM Latency(Variance): 102.64978981
+RAM Latency Overhead(Standard Deviation): 10.1316232564
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 3145728
-RAM Latency(Mean): 71.682
-RAM Latency(Variance): 8.0738304
-RAM Latency Overhead(Standard Deviation): 2.84144864462
+RAM Latency(Mean): 59.4645
+RAM Latency(Variance): 4.95429905
+RAM Latency Overhead(Standard Deviation): 2.22582547609
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 4194304
-RAM Latency(Mean): 75.2918
-RAM Latency(Variance): 5.02843796
-RAM Latency Overhead(Standard Deviation): 2.24241788255
+RAM Latency(Mean): 70.8281
+RAM Latency(Variance): 177.05263149
+RAM Latency Overhead(Standard Deviation): 13.3061125612
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 8388608
-RAM Latency(Mean): 80.3292
-RAM Latency(Variance): 3.33967696
-RAM Latency Overhead(Standard Deviation): 1.8274783063
+RAM Latency(Mean): 108.0881
+RAM Latency(Variance): 823.66254309
+RAM Latency Overhead(Standard Deviation): 28.6995216526
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 67108864
-RAM Latency(Mean): 94.3608
-RAM Latency(Variance): 1.97966336
-RAM Latency Overhead(Standard Deviation): 1.40700510305
+RAM Latency(Mean): 147.403
+RAM Latency(Variance): 2032.0575598
+RAM Latency Overhead(Standard Deviation): 45.0783491246
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 134217728
-RAM Latency(Mean): 97.7138
-RAM Latency(Variance): 0.71824836
-RAM Latency Overhead(Standard Deviation): 0.84749534512
+RAM Latency(Mean): 150.4875
+RAM Latency(Variance): 321.72322885
+RAM Latency Overhead(Standard Deviation): 17.9366448605
 ------------------------------------------------------------
 ------------------------------------------------------------
 RAM Access Time 268435456
-RAM Latency(Mean): 107.8284
-RAM Latency(Variance): 428.52028464
-RAM Latency Overhead(Standard Deviation): 20.7007315001
+RAM Latency(Mean): 149.8919
+RAM Latency(Variance): 296.25210089
+RAM Latency Overhead(Standard Deviation): 17.2119755081
 ------------------------------------------------------------
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

@@ -67,6 +67,6 @@ void main(int args, char *argv[])
 	end = ((uint64_t)hi2 << 32) | lo2;
 	double result = end - begin - loop_overhead;
 
-	printf("\n%lu\n%lu\n%lf\n", begin, end, result / LOOP_ITER_DOUBLE);
+	printf("\n%lu %lu %lf\n", begin, end, result / LOOP_ITER_DOUBLE);
 	free(strarr);
 }

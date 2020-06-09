@@ -1,0 +1,35 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Page Fault Overhead(Mean) : 33522.500000
+Page Fault Overhead(Variance) : 25321543.050000
+Page Fault Overhead(Standard Deviation) : 5032.051575
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Page Fault Overhead(Mean) : 33196.900000
+Page Fault Overhead(Variance) : 44627722.290000
+Page Fault Overhead(Standard Deviation) : 6680.398363
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Page Fault Overhead(Mean) : 34370.200000
+Page Fault Overhead(Variance) : 49443409.360000
+Page Fault Overhead(Standard Deviation) : 7031.600768
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Page Fault Overhead(Mean) : 31769.600000
+Page Fault Overhead(Variance) : 104239601.040000
+Page Fault Overhead(Standard Deviation) : 10209.779676
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Page Fault Overhead(Mean) : 16032.100000
+Page Fault Overhead(Variance) : 4214217.890000
+Page Fault Overhead(Standard Deviation) : 2052.856032
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

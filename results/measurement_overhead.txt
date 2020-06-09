@@ -1,40 +1,55 @@
+Iteration 0
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Measurement Overhead(Mean) : 35.552000
-Measurement Overhead(Variance) : 23379.419296
-Measurement Overhead(Standard Deviation) : 152.903300
+Measurement Overhead(Mean) : 68.468000
+Measurement Overhead(Variance) : 21.736576
+Measurement Overhead(Standard Deviation) : 4.662250
 
-Loop Overhead(Mean) : 40837.319200
-Loop Overhead(Variance) : 5143998.162911
-Loop Overhead(Standard Deviation) : 2268.038395
+Loop Overhead(Mean) : 57751.474500
+Loop Overhead(Variance) : 692651251.239547
+Loop Overhead(Standard Deviation) : 26318.268394
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 1
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Measurement Overhead(Mean) : 34.192600
-Measurement Overhead(Variance) : 83.244105
-Measurement Overhead(Standard Deviation) : 9.123821
+Measurement Overhead(Mean) : 27.309100
+Measurement Overhead(Variance) : 102.058157
+Measurement Overhead(Standard Deviation) : 10.102384
 
-Loop Overhead(Mean) : 41085.333600
-Loop Overhead(Variance) : 3063609.011911
-Loop Overhead(Standard Deviation) : 1750.316832
+Loop Overhead(Mean) : 45500.655600
+Loop Overhead(Variance) : 25721348.202389
+Loop Overhead(Standard Deviation) : 5071.621851
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 2
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Measurement Overhead(Mean) : 34.190800
-Measurement Overhead(Variance) : 83.097195
-Measurement Overhead(Standard Deviation) : 9.115766
+Measurement Overhead(Mean) : 26.609300
+Measurement Overhead(Variance) : 196.626254
+Measurement Overhead(Standard Deviation) : 14.022348
 
-Loop Overhead(Mean) : 41378.244600
-Loop Overhead(Variance) : 2446398.720571
-Loop Overhead(Standard Deviation) : 1564.096775
+Loop Overhead(Mean) : 47812.111400
+Loop Overhead(Variance) : 27148395.937790
+Loop Overhead(Standard Deviation) : 5210.412262
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 3
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Measurement Overhead(Mean) : 34.110400
-Measurement Overhead(Variance) : 94.063812
-Measurement Overhead(Standard Deviation) : 9.698650
+Measurement Overhead(Mean) : 25.732300
+Measurement Overhead(Variance) : 35.950037
+Measurement Overhead(Standard Deviation) : 5.995835
 
-Loop Overhead(Mean) : 41558.368000
-Loop Overhead(Variance) : 3446810.889376
-Loop Overhead(Standard Deviation) : 1856.558884
+Loop Overhead(Mean) : 45243.487800
+Loop Overhead(Variance) : 9835696.178051
+Loop Overhead(Standard Deviation) : 3136.191349
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Iteration 4
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Measurement Overhead(Mean) : 34.012000
-Measurement Overhead(Variance) : 82.340656
-Measurement Overhead(Standard Deviation) : 9.074175
+Measurement Overhead(Mean) : 26.178800
+Measurement Overhead(Variance) : 135.752031
+Measurement Overhead(Standard Deviation) : 11.651267
 
-Loop Overhead(Mean) : 41410.776000
-Loop Overhead(Variance) : 4317550.411424
-Loop Overhead(Standard Deviation) : 2077.871606
+Loop Overhead(Mean) : 46076.501500
+Loop Overhead(Variance) : 41728530.539397
+Loop Overhead(Standard Deviation) : 6459.762421
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
