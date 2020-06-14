@@ -4,7 +4,6 @@ import statistics
 import commands
 import time
 
-performance_measurement_overhead = 34
 BUILD_FOLDER = "../build/"
 SECONDS_PER_CYCLE = 0.556
 
