@@ -3,7 +3,14 @@
 
 ## Folder Structure:
 ```
-src: C files for all the metrics we considered
-build: Output files for C measurement files in src folder
-results: Copied the output data in .txt files and plotted graphs for accurate benchmarking
+src: Consists of all C files for the considered metrics
+build: Consists of output files for C files in src folder
+results: Consists of output data in .txt files and plotted graphs for accurate benchmarking of different operating systems
+```
+
+## Running Instructions: 
+```
+Clone the Repository. <br />
+`git clone https://github.com/Deep512/MicroBenchmarking-of-Operating-Systems`<br />
+Follow the instructions present in each respective folder.<br />
 ```
