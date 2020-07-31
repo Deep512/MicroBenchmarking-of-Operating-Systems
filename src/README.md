@@ -15,5 +15,4 @@ Install statistics python module:<br />
 
 
 ### NOTE: 
-There are a lot of hard coded values like Loop Overhead that were gotten from other experiments, but not mentioned in the report. However, most of the non trivial ones have been includedin the code.
-
+There are a lot of hard coded values like Loop Overhead that were gotten from other experiments.
