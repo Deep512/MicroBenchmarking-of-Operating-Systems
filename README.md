@@ -9,8 +9,6 @@ results: Consists of output data in .txt files and plotted graphs for accurate b
 ```
 
 ## Running Instructions: 
-```
 Clone the Repository. <br />
 `git clone https://github.com/Deep512/MicroBenchmarking-of-Operating-Systems`<br />
 Follow the instructions present in each respective folder.<br />
-```
