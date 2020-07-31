@@ -7,6 +7,9 @@ Run the following command:<br />
 
 As there were 8 descriptions, the experiments are numbered from 1-8. Memory Access Latency starts from 6. The actual functions are in data_parser.py<br />
 
+Install pip:<br />
+`sudo apt-get install python-pip` on Ubuntu<br />
+
 Install statistics python module:<br />
 `pip install statistics`<br />
 
